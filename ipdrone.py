@@ -47,8 +47,8 @@ print (red+"""
             ░           ░  ░░ ░      ░  ░      ░  ░   ░     
                             ░                               v 1.0
 """+red)
-print (lgreen+bold+"         <===[[ coded by N17RO ]]===> \n"+clear)
-print (yellow+bold+"   <---(( search on youtube Noob Hackers ))--> \n"+clear)
+print (lgreen+bold+"         <===[[ coded by Fablo ]]===> \n"+clear)
+print (yellow+bold+"   <---(( fablo likes eating your ip Adress ))--> \n"+clear)
 
 
 ip = args.target
